@@ -1,0 +1,7 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+Pods/
+
+# macOS
+.DS_Store
